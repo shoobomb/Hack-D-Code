@@ -25,7 +25,7 @@ if (isset($_SESSION['username1'])) {
     <!-- Bootstrap core CSS -->
     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Custom styles for this template -->
+    <!-- Custom styles for this template-->
     <link href="signin.css" rel="stylesheet">
 
 </HEAD>
